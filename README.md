@@ -2,7 +2,7 @@
   <!-- Big title badge in purple -->
   <img 
     src="https://img.shields.io/badge/Maram-Front--end%20Developer-9c27b0?style=for-the-badge&logo=github&logoColor=white" 
-    alt="Maram · Front-end Developer" 
+    alt="Maram · Web Developer" 
   />
 </p>
 
