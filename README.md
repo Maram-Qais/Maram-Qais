@@ -60,6 +60,6 @@
 
 </div>
 
-![snake gif](https://raw.githubusercontent.com/maram-qais/maram-qais/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/maram-qais/maram-qais/blob/output/github-contribution-grid-snake.gif)
 
 
