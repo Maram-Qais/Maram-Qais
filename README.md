@@ -61,3 +61,10 @@
 </div>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maram-Qais/Maram-Qais/output/dist/github-snake.gif" alt="GitHub Snake" />
+</p>
+
+
+
+
