@@ -60,11 +60,6 @@
 
 </div>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maram-Qais/Maram-Qais/output/dist/github-snake.gif" alt="GitHub Snake" />
-</p>
-
-
+![snake gif](https://raw.githubusercontent.com/maram-qais/maram-qais/output/github-contribution-grid-snake.gif)
 
 
